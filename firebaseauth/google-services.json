@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908237701819",
+    "project_id": "practice7-1-eab39",
+    "storage_bucket": "practice7-1-eab39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908237701819:android:81ce54e63aeee4d8221f9e",
+        "android_client_info": {
+          "package_name": "ru.mirea.kornilov.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908237701819-vfoi8een26aoa0k21es8f685iedq9uo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCglAaHW04WKlg7_D1y05rsJKhAbZ-dG5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908237701819-vfoi8een26aoa0k21es8f685iedq9uo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
